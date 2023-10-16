@@ -3,4 +3,6 @@ this is my new project
 void main()
 {
 printf("Hello world....");
+printf("\n this is the basic c programm")
+
 }
